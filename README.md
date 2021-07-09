@@ -1,2 +1,2 @@
 # MyImages
-As a image bed
+As an image bed
